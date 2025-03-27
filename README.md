@@ -12,8 +12,8 @@ Desenvolver um cartão de visitas pessoal utilizando HTML, CSS e JavaScript, apl
 
 - 📷 Foto pessoal profissional
 - 📧 Email
-- 🔗 Link para o [LinkedIn](https://www.linkedin.com)
-- 🐙 Link para o [GitHub](https://github.com)
+- 🔗 Link para o [LinkedIn](https://www.linkedin.com/in/lucianoparanhos/)
+- 🐙 Link para o [GitHub](https://github.com/lucianoparanhos)
 
 ### 🎨 Estilo e layout
 
