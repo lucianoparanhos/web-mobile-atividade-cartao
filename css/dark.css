@@ -1,0 +1,9 @@
+.dark-mode {
+    --bg-color: #121212;
+    --text-color: #ffffff;
+    --card-bg: #1e1e1e;
+}
+
+body.dark-mode .iconGH {
+    filter: invert(1);
+}
